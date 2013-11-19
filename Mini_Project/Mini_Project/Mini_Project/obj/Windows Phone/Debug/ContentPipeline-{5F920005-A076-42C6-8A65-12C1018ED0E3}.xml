@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>endMenu.png</Source>
+      <Name>endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\endMenu.xnb</Output>
+      <Time>2012-11-04T15:25:40.4672822+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Clouds.png</Source>
+      <Name>Clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Clouds.xnb</Output>
+      <Time>2012-10-22T19:19:53.0536294+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Sky.png</Source>
+      <Name>Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Sky.xnb</Output>
+      <Time>2012-10-28T21:46:23.5683759+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BigGrass.png</Source>
+      <Name>BigGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\BigGrass.xnb</Output>
+      <Time>2012-10-27T00:16:15.0799037+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Grass.png</Source>
+      <Name>Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Grass.xnb</Output>
+      <Time>2012-10-28T00:18:44.864926+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Grass2.png</Source>
+      <Name>Grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Grass2.xnb</Output>
+      <Time>2012-10-28T00:18:44.8809269+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Grass3.png</Source>
+      <Name>Grass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Grass3.xnb</Output>
+      <Time>2012-10-28T00:18:44.883927+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Grass4.png</Source>
+      <Name>Grass4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Grass4.xnb</Output>
+      <Time>2012-10-28T00:18:44.9019281+05:30</Time>
+    </Item>
+    <Item>
+      <Source>BUG.png</Source>
+      <Name>BUG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\BUG.xnb</Output>
+      <Time>2012-10-29T12:28:44.3240072+05:30</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation.png</Source>
+      <Name>mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\mineAnimation.xnb</Output>
+      <Time>2012-10-31T15:13:43.8866417+05:30</Time>
+    </Item>
+    <Item>
+      <Source>FLOWER2.png</Source>
+      <Name>FLOWER2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\FLOWER2.xnb</Output>
+      <Time>2012-11-01T21:30:09.0957599+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bloom.png</Source>
+      <Name>Bloom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Bloom.xnb</Output>
+      <Time>2012-11-01T22:31:25.9400634+05:30</Time>
+    </Item>
+    <Item>
+      <Source>sting.png</Source>
+      <Name>sting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\sting.xnb</Output>
+      <Time>2012-11-02T09:05:27.9813229+05:30</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.png</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\MainMenu.xnb</Output>
+      <Time>2012-11-04T19:50:08.3047903+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bloosom.wav</Source>
+      <Name>Audio\bloosom</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\bloosom.xnb</Output>
+      <Time>2012-11-04T10:07:55.0838851+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\burst.wav</Source>
+      <Name>Audio\burst</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\burst.xnb</Output>
+      <Time>2012-11-05T08:03:09.0532466+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gameMusic.mp3</Source>
+      <Name>Audio\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\gameMusic.xnb</Output>
+      <Extra>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\gameMusic.wma</Extra>
+      <Time>2012-11-04T10:24:43.4515604+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MusicGamePlay.mp3</Source>
+      <Name>Audio\MusicGamePlay</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\MusicGamePlay.xnb</Output>
+      <Extra>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Audio\MusicGamePlay.wma</Extra>
+      <Time>2012-11-04T22:17:11.628781+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\Fonts\gameFont.xnb</Output>
+      <Time>2012-11-04T10:27:45.656982+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5F920005-A076-42C6-8A65-12C1018ED0E3}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\appu\Documents\Visual Studio 2010\Projects\Mini_Project\Mini_Project\Mini_Project\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-24T12:17:23.3529333+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
